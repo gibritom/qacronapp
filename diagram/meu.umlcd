@@ -1,0 +1,110 @@
+{
+  "cells": [
+    {
+      "angle": 0,
+      "async": {
+        "batchSize": 500
+      },
+      "attrs": {},
+      "id": "paperCell",
+      "namespace": "meu",
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "queries": [],
+      "runtimeClass": "cronos.widgets.joint.uml.Paper",
+      "size": {
+        "height": 0,
+        "width": 0
+      },
+      "type": "basic.Rect",
+      "z": 1
+    },
+    {
+      "angle": 0,
+      "attributes": [],
+      "attrs": {
+        ".uml-class-attrs-rect": {
+          "fill": "#F0F0F0",
+          "font-family": "\u0027Fira Sans\u0027, sans-serif",
+          "height": 20,
+          "stroke": "#C2C2C2",
+          "transform": "translate(0,40)"
+        },
+        ".uml-class-attrs-text": {
+          "font-family": "\u0027Fira Sans\u0027, sans-serif",
+          "font-size": 11,
+          "text": ""
+        },
+        ".uml-class-attrs-value": {
+          "font-family": "\u0027Fira Sans\u0027, sans-serif",
+          "font-size": 11,
+          "ref-x": 195,
+          "text": ""
+        },
+        ".uml-class-methods-rect": {
+          "fill": "#F0F0F0",
+          "height": 20,
+          "stroke": "#C2C2C2",
+          "stroke-width": 1,
+          "transform": "translate(0,60)"
+        },
+        ".uml-class-methods-text": {
+          "font-family": "\u0027Fira Sans\u0027, sans-serif",
+          "font-size": 11,
+          "text": ""
+        },
+        ".uml-class-name-rect": {
+          "fill": "#F0F0F0",
+          "font-family": "\u0027Fira Sans\u0027, sans-serif",
+          "height": 40,
+          "stroke": "#C2C2C2",
+          "transform": "translate(0,0)"
+        },
+        ".uml-class-name-text": {
+          "font-family": "\u0027Fira Sans\u0027, sans-serif",
+          "text": "Class1"
+        }
+      },
+      "audit": "false",
+      "fields": [],
+      "generateView": "Auto",
+      "id": "28c21bba-af94-4a33-8617-1d234472addf",
+      "isRest": "true",
+      "methods": [],
+      "modelType": "Table",
+      "name": "Class1",
+      "position": {
+        "x": 403,
+        "y": 184
+      },
+      "queries": [],
+      "realName": "",
+      "restSecurity": null,
+      "role": "Auto",
+      "runtimeClass": "cronos.widgets.joint.uml.Class",
+      "size": {
+        "height": 100,
+        "width": 195
+      },
+      "swagger": "false",
+      "tableName": null,
+      "tableScheme": null,
+      "type": "uml.Class",
+      "usePhysicalNames": "false",
+      "z": 2
+    }
+  ],
+  "selectedGroup": "",
+  "groups": [
+    {
+      "name": "",
+      "id": "4c6c0471-c177-43fa-a9c3-6bdac9034d88",
+      "cells": [
+        "28c21bba-af94-4a33-8617-1d234472addf"
+      ],
+      "groupPositions": []
+    }
+  ]
+}
